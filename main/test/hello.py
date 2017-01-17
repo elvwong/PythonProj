@@ -8,7 +8,7 @@ import platform
 import time 
 from functools import wraps
 
-#命名关键字 参数 python3 才支持！
+#命名关键字 参数 python3 才支持！!!
 #def person(name,age,*,city,job):
 #    pass
     
